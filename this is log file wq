@@ -1,0 +1,20 @@
+[33mtag v1.0[m
+Tagger: Jinal Barot <jinal.barot29101993@gmail.com>
+Date:   Wed Nov 25 13:55:35 2020 +0530
+
+release v1.0
+
+[33mcommit 469f664d9bad61edaf22c99e45d9d4e72477e678[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Jinal Barot <jinal.barot29101993@gmail.com>
+Date:   Wed Nov 25 12:19:17 2020 +0530
+
+    new file added
+
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6c3f45c[m
+[1m--- /dev/null[m
+[1m+++ b/file2.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mthis is a second file[m
+[32m+[m
